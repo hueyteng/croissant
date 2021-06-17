@@ -1,0 +1,35 @@
+body {
+  background: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);
+  background-attachment: fixed;
+}
+
+h1,
+h2 {
+  text-align: center;
+}
+
+h1 {
+  font-size: 70px;
+  margin-top: 50px;
+  margin-bottom: 1px;
+}
+
+h2 {
+  font-size: 25px;
+  font-style: italic;
+  margin-top: 2px;
+  color: #847466;
+}
+
+p {
+  margin: 40px 100px;
+}
+
+img {
+  display: block;
+  margin: 50px auto;
+}
+
+.contact {
+  text-align: center;
+}
